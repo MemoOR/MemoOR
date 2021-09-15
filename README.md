@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there. I'm MemoOR
+## Currently i'm learning a lot of new programming languages
 
 <!--
 **MemoOR/MemoOR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +17,6 @@ Here are some ideas to get you started:
 -->
 
 
-![MemoOR's GitHub stats](https://github-readme-stats.vercel.app/api?username=MemoOR)
+![MemoOR's GitHub stats](https://github-readme-stats.vercel.app/api?username=MemoOR&show_icons=true&theme=city_lights&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MemoOR&layout=compact&theme=gotham&hide_border=true)
+
