@@ -1,3 +1,5 @@
+![GitHub followers](https://img.shields.io/github/followers/MemoOR?label=Follow&style=social)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=MemoOR)
 ### Hi there. I'm MemoOR
 ## Currently i'm learning a lot of new programming languages
 
