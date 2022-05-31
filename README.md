@@ -40,7 +40,11 @@ Specialized in backend programming and design of control systems with microcontr
   * :heavy_check_mark:Nvidia Jetson Nano
 * :boom: Cloud Providers :boom:
   *	:heavy_check_mark:AWS
-  *	  Lambda
+    *	Lambda
+    *	EC2
+    *	S3
+    *	CloudFormation
+    *	CloudWatch
 * :boom: Other skills :boom:
   *	:heavy_check_mark:Quick learning of new programming languages and technologies by myself
   *	:heavy_check_mark:Linux and Windows OS management with user interface and/or command line
