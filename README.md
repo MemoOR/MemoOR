@@ -5,7 +5,7 @@
 
 <p align="center">
   <img src= "https://img.shields.io/github/followers/MemoOR?label=Follow&style=social">
-  <a href= "www.linkedin.com/in/guillermo-or"><img src= "https://img.shields.io/badge/-GuillermoOR-black?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/guillermo-or"></a>
+  <a href= "https://mx.linkedin.com/in/guillermo-or"><img src= "https://img.shields.io/badge/-GuillermoOR-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://mx.linkedin.com/in/guillermo-or"></a>
 </p>
 
 Specialized in backend programming and design of control systems with microcontrollers for automation through software and hardware.
