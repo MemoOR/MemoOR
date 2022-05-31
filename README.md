@@ -54,5 +54,6 @@ Specialized in backend programming and design of control systems with microcontr
 Please visit mi linkedIn for more professional information by clicking the linked In button at the top of this README.
 
 ## About my github
-[![MemoOR GitHub stats](https://github-readme-stats.vercel.app/api?username=MemoOR&show_icons=true&theme=radical)](#)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MemoOR&layout=compact&theme=radical)](#)
+![MemoOR's GitHub stats](https://github-readme-stats.vercel.app/api?username=MemoOR&show_icons=true&theme=city_lights&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MemoOR&layout=compact&theme=gotham&hide_border=true)
 
