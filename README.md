@@ -1,63 +1,152 @@
+<h1 align="center">Hi there 👋 I'm Guillermo (Memo) Ortega Romo</h1>
+<h3 align="center">Software & Hardware Engineer | Backend Specialist | Automation Expert</h3>
+
 <p align="center">
-  <h1 align="center" style="margin: 0 auto 0 auto;">Hi there 👋 My name is Memo and I'm a developer</h1>
-  <h5 align="center" style="margin: 0 auto 0 auto;">Software and Hardware Engineer</h5>
+  <a href="https://github.com/GuillermoOrtegaTR" target="_blank">
+    <img src="https://img.shields.io/badge/💼_Professional_Work-@GuillermoOrtegaTR-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Work GitHub">
+  </a>
 </p>
 
 <p align="center">
-  <img src= "https://img.shields.io/github/followers/MemoOR?label=Follow&style=social">
-  <a href= "https://mx.linkedin.com/in/guillermo-or"><img src= "https://img.shields.io/badge/-GuillermoOR-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://mx.linkedin.com/in/guillermo-or"></a>
+  <strong>👆 Check out my work account for professional contributions and real-world projects! 👆</strong>
 </p>
 
-Specialized in backend programming and design of control systems with microcontrollers for automation through software and hardware.
+<p align="center">
+  <a href="https://mx.linkedin.com/in/guillermo-or">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white">
+  </a>
+  <img src="https://img.shields.io/github/followers/MemoOR?label=Follow&style=social">
+  <a href="https://guillermoortega.me">
+    <img src="https://img.shields.io/badge/Portfolio-guillermoortega.me-purple?style=flat-square&logo=google-chrome&logoColor=white">
+  </a>
+</p>
 
-## Programming skills and knowledge areas
-* :boom:Programming languages :boom:
-  *	:heavy_check_mark:Python
-  *	:heavy_check_mark:C
-  *	:heavy_check_mark:C++(embedded)
-  *	:heavy_check_mark:Javascript
-  *	:heavy_check_mark:HTML
-  *	:heavy_check_mark:Bash
-* :boom:Databases :boom:
-  * :heavy_check_mark:MySQL
-  * :heavy_check_mark:Oracle
-* :boom:Frameworks :boom:
-  * :heavy_check_mark:Flask
-  * :heavy_check_mark:NodeJS
-  * :heavy_check_mark:Serverless
-  * :heavy_check_mark:ROS2
-* :boom:Code editors and IDE´s :boom:
-  * :heavy_check_mark:Visual studio code
-  * :heavy_check_mark:Eclipse
-  * :heavy_check_mark:Atom
-  * :heavy_check_mark:Emacs
-  * :heavy_check_mark:Nano
-* :boom:Hardware :boom:
-  * :heavy_check_mark:ESP32
-  * :heavy_check_mark:PLC
-  * :heavy_check_mark:Arduino
-  * :heavy_check_mark:Raspberry
-  * :heavy_check_mark:Nvidia Jetson Nano
-* :boom: Cloud Providers :boom:
-  *	:heavy_check_mark:AWS
-    *	Lambda
-    *	EC2
-    *	S3
-    *	CloudFormation
-    *	CloudWatch
-* :boom: Other skills :boom:
-  *	:heavy_check_mark:Quick learning of new programming languages and technologies by myself
-  *	:heavy_check_mark:Linux and Windows OS management with user interface and/or command line
+---
 
-## Languages written and spoken
-:clap:English (full professional proficiency)
+### 👨‍💻 About Me
+
+I specialize in **backend development** and **control systems design** using microcontrollers for automation. My expertise bridges the gap between software and hardware, creating efficient solutions for complex engineering challenges.
+
+> **Note:** This is my personal GitHub account. Most of my professional work and daily contributions can be found on my work account: **[@GuillermoOrtegaTR](https://github.com/GuillermoOrtegaTR)**
+
+---
+
+### 🛠️ Technical Skills
+
+<details open>
+<summary><b>💻 Programming Languages</b></summary>
 <br>
-:clap:Spanish (native)
 
-## Professional profile
-Please visit mi linkedIn for more professional information by clicking the linked In button at the top of this README.
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-## About my github
-![MemoOR's GitHub stats](https://github-readme-stats.vercel.app/api?username=MemoOR&show_icons=true&theme=city_lights&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MemoOR&layout=compact&theme=gotham&hide_border=true)
+</details>
+
+<details open>
+<summary><b>🗄️ Databases</b></summary>
+<br>
+
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🚀 Frameworks & Technologies</b></summary>
+<br>
+
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white)
+![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>☁️ Cloud & DevOps</b></summary>
+<br>
+
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+- **AWS Services:** Lambda, EC2, S3, CloudFormation, CloudWatch
+- **Infrastructure as Code:** Terraform
+- **CI/CD:** GitHub Actions, Jenkins
+
+</details>
+
+<details open>
+<summary><b>🔧 Hardware & Embedded Systems</b></summary>
+<br>
+
+- **ESP32** - IoT and wireless connectivity
+- **Arduino** - Rapid prototyping
+- **Raspberry Pi** - Edge computing
+- **PLC** - Industrial automation
+- **NVIDIA Jetson Nano** - AI at the edge
+
+</details>
+
+<details open>
+<summary><b>⚡ Other Skills</b></summary>
+<br>
+
+- 🎯 Quick learner - Self-taught in new technologies and frameworks
+- 🐧 Linux & Windows system administration (GUI & CLI)
+- 🔄 Agile methodologies
+- 📊 Problem-solving and system design
+
+</details>
+
+---
+
+### 🌍 Languages
+
+- 🇬🇧 **English** - Full professional proficiency
+- 🇲🇽 **Spanish** - Native
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MemoOR&show_icons=true&theme=city_lights&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MemoOR&layout=compact&theme=gotham&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MemoOR&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://mx.linkedin.com/in/guillermo-or">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://guillermoortega.me">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-purple?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/GuillermoOrtegaTR">
+    <img src="https://img.shields.io/badge/Work_GitHub-Follow-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <strong>💼 Want to see my professional work? Visit <a href="https://github.com/GuillermoOrtegaTR">@GuillermoOrtegaTR</a> for real-world contributions!</strong>
+</p>
+
+<p align="center">
+  <i>Open to collaboration and interesting projects!</i>
+</p>
 
