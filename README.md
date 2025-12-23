@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 I'm Guillermo (Memo) Ortega Romo</h1>
-<h3 align="center">Software & Hardware Engineer | Backend Specialist | Automation Expert</h3>
+<h3 align="center">Senior Cloud Engineer | Multi-Cloud Architect | Full-Stack Developer</h3>
 
 <p align="center">
   <a href="https://github.com/GuillermoOrtegaTR" target="_blank">
@@ -25,7 +25,9 @@
 
 ### 👨‍💻 About Me
 
-I specialize in **backend development** and **control systems design** using microcontrollers for automation. My expertise bridges the gap between software and hardware, creating efficient solutions for complex engineering challenges.
+I'm a **Senior Cloud Engineer** with full-stack development responsibilities, specializing in **multi-cloud architectures** (AWS, Azure, GCP) and modern application development. I've designed and built **4 enterprise internal applications from scratch** (2 on AWS, 2 on Azure), handling everything from architecture and networking to cost optimization and deployment.
+
+Currently focused on **AI agents**, **MCP servers**, and building a **multi-cloud machine image factory** for enterprise use. I also mentor junior engineers and establish best practices across teams.
 
 > **Note:** This is my personal GitHub account. Most of my professional work and daily contributions can be found on my work account: **[@GuillermoOrtegaTR](https://github.com/GuillermoOrtegaTR)**
 
@@ -34,70 +36,100 @@ I specialize in **backend development** and **control systems design** using mic
 ### 🛠️ Technical Skills
 
 <details open>
-<summary><b>💻 Programming Languages</b></summary>
+<summary><b>☁️ Multi-Cloud Expertise</b></summary>
 <br>
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS_(Primary)-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure_(Secondary)-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP_(Tertiary)-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+
+**AWS Services (Primary):**
+- **Compute:** Lambda, EC2, Step Functions
+- **Storage & DB:** S3, RDS, DynamoDB
+- **Messaging:** SQS, SNS
+- **AI/ML:** Bedrock (Agent Core)
+- **Networking:** VPC, CloudFront
+- **Security:** IAM Admin, Secrets Manager, SSM, Org Admin, Cross-Account Permissions
+- **Management:** CloudFormation, CloudWatch, Image Builder
+- **Compliance:** FedRAMP certified environments
+
+**Azure Services (Secondary):**
+- App Gateway, Static Web Apps, Web Apps
+- Virtual Network, Key Vault
+- CosmosDB
+
+**GCP (Tertiary):**
+- Completed advanced GCP for AWS Professionals course
+- Currently designing multi-cloud machine image factory solution
+
+</details>
+
+<details open>
+<summary><b>💻 Programming & Development</b></summary>
+<br>
+
+![Python](https://img.shields.io/badge/-Python_(Primary)-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+**Frontend:**
+- React, Next.js, Vite
+- Modern JavaScript/TypeScript
+
+**Backend:**
+- Python (Flask, FastAPI)
+- Node.js
+- Serverless architectures
+- Microservices & Monoliths
 
 </details>
 
 <details open>
-<summary><b>🗄️ Databases</b></summary>
+<summary><b>🗄️ Databases (SQL & NoSQL)</b></summary>
 <br>
 
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+**SQL:** MySQL, PostgreSQL, Oracle, RDS (AWS)
+
+**NoSQL:** DynamoDB (AWS), CosmosDB (Azure), MongoDB
+
+**Environments:** Local, Cloud (AWS/Azure), On-Premise
 
 </details>
 
 <details open>
-<summary><b>🚀 Frameworks & Technologies</b></summary>
+<summary><b>🏗️ Architecture & Infrastructure</b></summary>
 <br>
 
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white)
-![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+- 🎯 **Full-Stack Development** - Frontend to backend to infrastructure
+- 🏢 **Enterprise Architecture** - Designed 4 internal apps from scratch
+- 🔐 **Network Security** - VPN-only access, private networking
+- 💰 **Cost Optimization** - Budget management and resource optimization
+- 🤖 **AI/ML Integration** - AI agents, MCP servers, Bedrock
+- 🖼️ **Machine Image Management** - Multi-cloud golden image factory
+- 🔄 **IaC:** Terraform (primary), CloudFormation, Bicep
+- 🚀 **CI/CD:** GitHub Actions, AWS CodeBuild, AWS CodePipeline
+- 🐳 **Containers:** Docker, Kubernetes
 
 </details>
 
 <details open>
-<summary><b>☁️ Cloud & DevOps</b></summary>
+<summary><b>👥 Leadership & Management</b></summary>
 <br>
 
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-- **AWS Services:** Lambda, EC2, S3, CloudFormation, CloudWatch
-- **Infrastructure as Code:** Terraform
-- **CI/CD:** GitHub Actions, Jenkins
+- 📚 **Mentorship** - Training junior engineers
+- ✅ **Best Practices** - Establishing coding standards and workflows
+- 🎯 **Technical Decisions** - Architecture, tech stack, and design choices
+- 🔧 **IT Administration** - Microsoft Entra (formerly Azure AD)
 
 </details>
 
 <details open>
-<summary><b>🔧 Hardware & Embedded Systems</b></summary>
+<summary><b>🔧 Hardware & IoT (Hobby)</b></summary>
 <br>
 
-- **ESP32** - IoT and wireless connectivity
-- **Arduino** - Rapid prototyping
-- **Raspberry Pi** - Edge computing
-- **PLC** - Industrial automation
-- **NVIDIA Jetson Nano** - AI at the edge
-
-</details>
-
-<details open>
-<summary><b>⚡ Other Skills</b></summary>
-<br>
-
-- 🎯 Quick learner - Self-taught in new technologies and frameworks
-- 🐧 Linux & Windows system administration (GUI & CLI)
-- 🔄 Agile methodologies
-- 📊 Problem-solving and system design
+- ESP32, Arduino, Raspberry Pi, PLC, NVIDIA Jetson Nano
+- *Now primarily a hobby - main focus is cloud & full-stack development*
 
 </details>
 
